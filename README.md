@@ -1,0 +1,1 @@
+"MITHackathon_ARHeadset. Code for the HoloLens including 3D tracking of camo-wrapped Nerf guns, and communicating with a TCP Server cretaed using code in the other repository linked in this account." 
